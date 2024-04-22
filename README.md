@@ -13,3 +13,7 @@ npm run dev
 # install redux
 
 npm i react-redux redux
+
+
+LINK DEPLOY BT REACT-FORM: https://react-form-sooty-nine.vercel.app/
+SOURCE CODE: folder BTFormValidate
